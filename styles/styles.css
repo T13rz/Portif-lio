@@ -1,19 +1,15 @@
 /*Import de Fontes*/
-.bbh-sans-bartle-regular {
-  font-family: "BBH Sans Bartle", sans-serif;
+
+h1, h2{
+  font-family: "Fjalla One", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
-.ibm-plex-serif-medium {
-  font-family: "IBM Plex Serif", serif;
-  font-weight: 500;
-  font-style: normal;
-}
+
 /*Mudanças no HTML*/
-h2{ 
-    font-family: "BBH Sans Bartle", sans-serif;
-    color: rgb(255, 253, 253);
+h2{
+  color: aliceblue;
 }
 
 .div p{
@@ -29,4 +25,25 @@ i{
 .car img{
   width: 50px;
   height:50px;
+}
+
+.sb img{
+  width: 50px;
+  height: 50px;
+}
+
+#event img{
+  width: auto;
+  height:200px;
+}
+
+
+.pyd img{
+  width:10px;
+  height: 10pX;
+}
+
+#sb img{
+  width: auto;
+  height: 250px;
 }
